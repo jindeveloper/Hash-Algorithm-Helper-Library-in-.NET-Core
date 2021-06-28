@@ -8,7 +8,7 @@ namespace HashingAlgorithm.Test
     /*
      *
      */ 
-    public class Tests
+    public class HashingAlgorithmHelperTest
     {
         private string plainText = "Stay hungry and stay foolish";
 
