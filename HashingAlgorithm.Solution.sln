@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingAlgorithm.Test", "HashingAlgorithm.Test\HashingAlgorithm.Test.csproj", "{36A81257-2D4F-4BE6-B8CE-EFA071B8FCA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingAlgorihtm.Library", "HashingAlgorihtm.Library\HashingAlgorihtm.Library.csproj", "{0EA06E14-53B4-4776-B218-C4E4C17CDC23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingAlgorith.SHA256.Example", "HashingAlgorith.SHA256.Example\HashingAlgorith.SHA256.Example.csproj", "{6BADA73A-4007-45CE-B5D2-607991E8BF27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashingAlgorithm.Console.App", "HashingAlgorithm.Console.App\HashingAlgorithm.Console.App.csproj", "{ED76E3DB-476F-4657-9CE6-88AD21A5C00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A81257-2D4F-4BE6-B8CE-EFA071B8FCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A81257-2D4F-4BE6-B8CE-EFA071B8FCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A81257-2D4F-4BE6-B8CE-EFA071B8FCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A81257-2D4F-4BE6-B8CE-EFA071B8FCA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA06E14-53B4-4776-B218-C4E4C17CDC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA06E14-53B4-4776-B218-C4E4C17CDC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA06E14-53B4-4776-B218-C4E4C17CDC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA06E14-53B4-4776-B218-C4E4C17CDC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BADA73A-4007-45CE-B5D2-607991E8BF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BADA73A-4007-45CE-B5D2-607991E8BF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BADA73A-4007-45CE-B5D2-607991E8BF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BADA73A-4007-45CE-B5D2-607991E8BF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED76E3DB-476F-4657-9CE6-88AD21A5C00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED76E3DB-476F-4657-9CE6-88AD21A5C00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED76E3DB-476F-4657-9CE6-88AD21A5C00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED76E3DB-476F-4657-9CE6-88AD21A5C00B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A4E8DC-0C67-4453-8F22-02FD62E400CE}
+	EndGlobalSection
+EndGlobal

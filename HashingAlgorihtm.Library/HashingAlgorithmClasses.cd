@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Security.Cryptography.HashAlgorithm" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="3" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Security.Cryptography.MD5" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA1" Collapsed="true">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA256" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <InheritanceLine Type="System.Security.Cryptography.HashAlgorithm" ManuallyRouted="true">
+      <Path>
+        <Point X="3.5" Y="2.609" />
+        <Point X="2.729" Y="2.609" />
+        <Point X="2.729" Y="3.7" />
+        <Point X="5" Y="3.7" />
+        <Point X="5" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA384" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA512" Collapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA256Managed" Collapsed="true">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA1Managed" Collapsed="true">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA384Managed" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Security.Cryptography.SHA512Managed" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
